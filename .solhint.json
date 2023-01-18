@@ -1,0 +1,6 @@
+{
+  "extends": "solhint: reconmmended",
+  "rules": {
+    "compiler-version": ["error", "^0.8.0"]
+  }
+}
